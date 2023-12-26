@@ -15,7 +15,7 @@ Clone this repo.
 
 ```js
 git clone https://github.com/cristian-cordoba/symphony.git
-
+```
 Install dependencies. 
 
 ```js
