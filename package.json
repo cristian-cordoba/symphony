@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test-e2e": "cypress run --spec cypress/e2e/sauceDemo.cy.js",
+    "test-api": "cypress run --spec cypress/e2e/publicAPIs.cy.js"
+  },
+  "dependencies": {
+    "cypress": "^13.6.1"
+  }
+}
